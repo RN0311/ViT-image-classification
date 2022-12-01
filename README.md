@@ -5,6 +5,6 @@
 `pip install -U tensorflow-addons`
 
 # Run
-`python3 image-classification.py`
+`python3 image_classification.py`
 
 
